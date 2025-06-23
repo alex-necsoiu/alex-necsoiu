@@ -12,7 +12,7 @@
 
 ## 🔍 About Me
 
-I'm Alex a Senior Back-End Engineer and Senior Blockchain Engineer with deep expertise in building scalable, secure infrastructure for Web3 applications. I specialize in designing and developing high-performance backend services that power smart contracts, DeFi protocols, smart wallets, and cross-chain systems.
+I'm Alex a Senior Back-End and Blockchain Engineer with deep expertise in building scalable, secure infrastructure for Web3 applications. I specialize in designing and developing high-performance backend services that power smart contracts, DeFi protocols, smart wallets, and cross-chain systems.
 
 With a strong background in Go, Solidity, and TypeScript, I bridge the gap between traditional backend architecture and decentralized technologies. I’ve built microservice-driven platforms, event-driven systems, and Web3 integrations that serve thousands of users in production.
 
