@@ -1,9 +1,13 @@
 <!-- GitHub Profile README for Alex Necsoiu -->
 
-<h1 align="center">Hi, I'm Alex Necsoiu 👋</h1>
-<p align="center">
-  Senior Blockchain & Back‑End Engineer 🧠 | DeFi Architect | Multi‑chain Wallets
+
+<h1 align="left"> <img src="https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32" style="vertical-align:middle; margin-right:8px;" /> Hey! Nice to see you. 👋</h1>
+<p align="left">
+  Welcome to my page!<br>
+  I’m Alex, a Senior Blockchain & Back-End Engineer based in Lleida, Spain, with a passion for building scalable and secure decentralized web3 dapps.
 </p>
+
+
 
 ---
 
